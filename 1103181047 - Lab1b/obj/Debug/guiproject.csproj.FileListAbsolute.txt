@@ -1,0 +1,3 @@
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Percobaan1\Percobaan1\bin\Debug\Percobaan1.exe.config
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Percobaan1\Percobaan1\obj\Debug\Percobaan1.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Percobaan1\Percobaan1\obj\Debug\Percobaan1.pdb
